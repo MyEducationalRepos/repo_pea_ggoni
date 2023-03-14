@@ -1,0 +1,2 @@
+59 23 * * * /ruta/a/actualiza_tabla.sh nombre_tabla nombre_base
+
